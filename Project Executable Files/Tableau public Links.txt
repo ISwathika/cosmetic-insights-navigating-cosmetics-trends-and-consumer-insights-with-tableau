@@ -1,0 +1,9 @@
+		                     Tableau public Links
+
+
+Dashboard Link1: 
+https://public.tableau.com/views/ProductRankingandDetailedanalysiscosmeticsproject/ProductRankingandDetailedAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Dashboard Link2: 
+https://public.tableau.com/views/ProductSuitabilityOverviewcosmeticsproject/ProductSuitabilityOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Story Link:
+https://public.tableau.com/views/Cosmeticsproject/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
